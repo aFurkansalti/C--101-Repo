@@ -1,0 +1,15 @@
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\bin\Debug\net7.0\Değişkenler.exe
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\bin\Debug\net7.0\Değişkenler.deps.json
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\bin\Debug\net7.0\Değişkenler.runtimeconfig.json
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\bin\Debug\net7.0\Değişkenler.dll
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\bin\Debug\net7.0\Değişkenler.pdb
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\Değişkenler.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\Değişkenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\Değişkenler.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\Değişkenler.AssemblyInfo.cs
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\Değişkenler.dll
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\refint\Değişkenler.dll
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\Değişkenler.pdb
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\Değişkenler.genruntimeconfig.cache
+C:\Users\Ahmet\Documents\C#-Patika\Değişkenler\obj\Debug\net7.0\ref\Değişkenler.dll
